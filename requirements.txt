@@ -3,3 +3,4 @@ djangorestframework
 django-filter
 psycopg2-binary
 python-dotenv
+model-bakery

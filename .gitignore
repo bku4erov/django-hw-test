@@ -1,2 +1,9 @@
 env/
+.vscode/
+django_testing/__pycache__/
+students/__pycache__/
+tests/__pycache__/
+tests/students/__pycache__/
+students/migrations/__pycache__/
 .env
+
